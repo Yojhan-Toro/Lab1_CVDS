@@ -9,3 +9,5 @@ Invitamos a el colaborador
 ![alt text](image-2.png)
 
 # Parte II
+
+Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
