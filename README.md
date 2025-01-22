@@ -7,3 +7,5 @@ Comprobamos que se realizaron los cambios
 
 Invitamos a el colaborador
 ![alt text](image-2.png)
+
+# Parte II
