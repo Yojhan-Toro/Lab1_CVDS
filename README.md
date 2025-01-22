@@ -1,2 +1,5 @@
 # Lab1_CVDS
-"![alt text](image-1.png)"
+Creamos la carpeta y enlazamos con el git 
+![alt text](image-1.png)
+Comprobamos que se realizaron los combios
+![alt text](image.png)
