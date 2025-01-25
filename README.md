@@ -27,7 +27,7 @@ Un Pull Request (PR) es una solicitud para proponer cambios en un repositorio. F
 
 Haces cambios en una rama nueva.
 Subes la rama al repositorio remoto (git push).
-Creas el PR en la plataforma (GitHub, GitLab, etc.).
+Creas el PR.
 Otros revisan los cambios.
 Si se aprueba, se fusiona con la rama principal.
 Sirve para colaborar, revisar y evitar errores en equipo.
