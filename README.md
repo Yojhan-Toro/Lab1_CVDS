@@ -1,4 +1,7 @@
 # Lab1_CVDS
+## INTEGRANTES
+Yojhan toro - Ivan Cubillos
+## RESPUESTAS
 Creamos la carpeta y enlazamos con el git 
 ![alt text](image-1.png)
 
