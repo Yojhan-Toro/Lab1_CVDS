@@ -13,7 +13,7 @@ Invitamos a el colaborador
 
 
 Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
-Nos arroja el error anterior
+Nos arroja el siguiente error
 ![alt text](image-3.png)
 
 Y se aceptan los cambios del merge en el IDE
