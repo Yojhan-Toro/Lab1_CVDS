@@ -40,3 +40,10 @@ Creen una rama cada uno y suban sus cambios
 Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
 
 ![alt text](image-6.png)
+
+Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
+
+![alt text](image-7.png)
+
+
+![alt text](image-8.png)
