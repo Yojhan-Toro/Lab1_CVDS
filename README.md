@@ -36,4 +36,7 @@ Creen una rama cada uno y suban sus cambios
 
 ![alt text](image-5.png)
 
-Rama Ivan
+
+Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
+
+![alt text](image-6.png)
